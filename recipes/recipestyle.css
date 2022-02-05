@@ -1,0 +1,16 @@
+body{
+    font-family: Helvetica,"Times New Roman",Arial,Sans-Serif;
+    background-color: lightgray;
+}
+.intro{
+    text-align: center;
+    font-size: x-large;
+}
+img{
+    height: auto;
+    border-radius: 15%;
+    border-style: solid;
+}
+li{
+    padding: 5px;
+}
